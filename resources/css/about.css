@@ -1,0 +1,82 @@
+.dv{
+    background:url('img/ab.jpeg'); 
+    height:200px;
+   
+    width:100%;
+}
+
+.btn2{
+  background:#000080;
+  color:white;
+  text-align:center;
+  /* width:24%; */
+  height:60px;
+  border: 3px solid #0492C2;
+  display:inline-block;
+  
+  
+}
+
+.btn2:hover{
+  color:white;
+  background:black;
+  border: 3px solid yellow;
+  border-radius:20px;
+  transform:scale(1);
+  border-radius:20px;
+
+}
+.btn1{
+    color:white;
+  text-align:center;
+  width:32%;
+  height:60px;
+  display:inline-block;
+  background:green;
+  border:3px solid yellow;
+}
+.btn1:hover{
+    background:white; 
+   border:3px solid green;
+   color:green;
+   transform:scale(1.05);
+  border-radius:20px;
+}
+.btn3{
+    color:white;
+  text-align:center;
+  width:32%;
+  height:60px;
+  display:inline-block;
+  background:blue;
+  border:3px solid yellow;
+}
+.btn3:hover{
+    background:white; 
+   border:3px solid blue;
+   color:blue;
+   transform:scale(1.05);
+  border-radius:20px;
+}
+.btn4{
+    color:white;
+  text-align:center;
+  width:32%;
+  height:60px;
+  display:inline-block;
+  background:black;
+  border:3px solid yellow;
+}
+.btn4:hover{
+    background:white; 
+   border:3px solid black;
+   color:black;
+   transform:scale(1.05);
+  border-radius:20px;
+}
+
+.image {
+display: inline-block;
+width: 20%;
+vertical-align: top;
+}

@@ -1,0 +1,17 @@
+
+
+.div {
+    display: flex;
+    align-items: center;
+}
+
+.div img {
+    margin-right: 20px;
+}
+
+
+.img {
+width: 100px;
+height: 150px;
+margin-left: 50px;
+}
